@@ -1,0 +1,14 @@
+img{
+	width:350px;
+	border:2px solid blue;
+}
+body {
+	font-family: David;
+	background-color: LightGray;
+}
+.red{
+	color: blue;
+}
+.big_f {
+	font-size:10px;
+}
